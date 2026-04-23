@@ -11,8 +11,8 @@
 </div>
 <div align="left">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohamed_Sobhi_Mehina-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-212C42?style=flat-square&logo=tryhackme&logoColor=red)](https://tryhackme.com/p/your-profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohamed_Sobhi_Mehina-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-mehina-6b3832249/)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-212C42?style=flat-square&logo=tryhackme&logoColor=red)](https://tryhackme.com/p/Mehina73)
 
 </div>
 ---
