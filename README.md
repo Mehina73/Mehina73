@@ -9,7 +9,13 @@
 📍 Egypt &nbsp;|&nbsp; 🔐 Offensive Security &nbsp;|&nbsp; 🕵️ Bug Bounty Hunter
 
 </div>
+<div align="left">
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohamed_Sobhi_Mehina-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-212C42?style=flat-square&logo=tryhackme&logoColor=red)](https://tryhackme.com/p/your-profile)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Security_Research-111111?style=flat-square&logo=github&logoColor=white)](https://your-portfolio-link.com)
+
+</div>
 ---
 
 ## About Me
